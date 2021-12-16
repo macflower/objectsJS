@@ -85,4 +85,4 @@ const allBudget = people
 },0)
 console.log(allBudget)
 
-// test
+// test1

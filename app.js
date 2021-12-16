@@ -95,4 +95,4 @@ const logger = {
 logger.withParams.call(person, true, true, true)
 logger.withParams.apply(person, [true, true, true])
 
-// test
+// test1
