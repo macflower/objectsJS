@@ -94,3 +94,5 @@ const logger = {
 // logger.keys.call(person)
 logger.withParams.call(person, true, true, true)
 logger.withParams.apply(person, [true, true, true])
+
+// test

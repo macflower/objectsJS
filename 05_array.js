@@ -84,3 +84,5 @@ const allBudget = people
     return acc
 },0)
 console.log(allBudget)
+
+// test
